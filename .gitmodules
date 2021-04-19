@@ -7,3 +7,6 @@
 [submodule "todo-backend"]
 	path = todo-backend
 	url = https://github.com/cwesterduin/todo-backend.git
+[submodule "redux-todo-local"]
+	path = redux-todo-local
+	url = https://github.com/cwesterduin/redux-todo-local.git
