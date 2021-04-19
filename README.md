@@ -8,7 +8,9 @@ This is a simple project to practice using redux for state management with react
 ## technologies
 The project uses react, redux, react-redux for the very useful hooks, redux-devtools-extension and react-router-dom. 
 **redux-todo-api** also uses redux-thunk for asynchronous actions.
+
 **todo-backend** provides a simple express API and Postgres database for the project
+
 **todo-demo** temporarily stores the redux store with localstorage - you can try the demo at the above link
 
 ## to run
