@@ -11,7 +11,7 @@ The project uses react, redux, react-redux for the very useful hooks, redux-devt
 
 **todo-backend** provides a simple express API and Postgres database for the project
 
-**todo-demo** temporarily stores the redux store with localstorage - you can try the demo at the above link
+**reudux-todo-local** temporarily stores the redux store with localstorage - you can try the demo at the above link
 
 ## to run
 See submodules for instructions - **redux-todo-api** relies on **todo-backend** so you will need to run them at the same time.
