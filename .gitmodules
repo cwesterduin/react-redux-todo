@@ -1,6 +1,3 @@
-[submodule "redux-demo"]
-	path = redux-demo
-	url = https://github.com/cwesterduin/redux-demo.git
 [submodule "redux-todo-api"]
 	path = redux-todo-api
 	url = https://github.com/cwesterduin/redux-todo-api.git
