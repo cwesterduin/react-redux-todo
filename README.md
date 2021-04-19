@@ -3,7 +3,7 @@
 https://redux-todo-localstorage.netlify.app/todo
 
 ## project
-This is a simple project to practice using redux for state management with react. I wanted to make a simple CRUD application to get used to working with redux, I added react-router so you can see that state persists, and also that the redux store can be used to generate more dynamic urls. 
+This is a project to practice using redux for state management with react. I wanted to make a simple CRUD application to get used to working with redux, I added react-router so you can see that state persists, and also that the redux store can be used to generate more dynamic urls. 
 
 ## technologies
 The project uses react, redux, react-redux for the very useful hooks, redux-devtools-extension and react-router-dom. 
